@@ -11,14 +11,14 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Sanidhya Kumar Verma, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
+  Hi, I'm Gohil Jaiveersinh, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
   <br />
   <br />
-  🎓 Currently a high school student.
+  🎓 Currently a Btech Computer Engineering Student.
   <br />
   💻 I love to learn new technologies and frameworks.
   <br />
-  🧑‍💼 I’m currently a freelancer working as a Next.js developer.
+  🧑‍💼 I’m currently a owner of an company named ThunderWolf.
   <br />
 </p>
 
